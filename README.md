@@ -1,7 +1,8 @@
 # Tablas-de-datos-Informe-EST2
 
 Tomar en consideración que las personas entrevistadas han pasado por un proceso de elección y se dieron casos donde la persona elegida no pudo ser entrevistada pues no existían las condiciones necesarias para que se de la entrevista con privacidad.
-  Modulo 1637
+  
+  Datos Basicos de MEF: Modulo 1637
     
 Variable dependiente: Caso de Violencia 
 
@@ -14,7 +15,7 @@ D108: Experimentó cualquier violencia sexual
 D111: Cualquier resultado por causa de su esposo/compañero
   •	0 = No ; 1 = Sí
   
-  Modulo 1631
+  Mortalidad Materna - Violencia Familiar: Modulo 1631
 
 Variables independientes
     
