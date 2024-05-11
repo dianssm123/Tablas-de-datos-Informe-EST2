@@ -30,8 +30,6 @@ familiar. Incluye las siguientes subvariables:
 
     -   0 = No experimentó violencia emocional
 
-    <!-- -->
-
     -   1 = Sí experimentó violencia emocional
 
 -   D108: Violencia Sexual
